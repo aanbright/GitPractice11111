@@ -12,6 +12,8 @@ System.out.println("how is going on");
 
 System.out.println("Saima is here");
 
+System.out.println("Now you guys know how the GIT works");
+
 
 	}
 
